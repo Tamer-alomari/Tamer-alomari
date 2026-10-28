@@ -2,7 +2,7 @@ Hi, I'm Tamer Alomari
 
  Cybersecurity Student | Aspiring SOC Analyst | Blue Team Enthusiast
 
-I'm a Cybersecurity student at the **University of Jordan**, with an expected graduation date of **January 2027**.
+I'm a Cybersecurity student at the University of Jordan, with an expected graduation date of January 2027.
 
 I'm passionate about Security Operations Center (SOC) operations, defensive security, network monitoring, and identity and access management.
 
@@ -36,9 +36,9 @@ An educational university portal demonstrating authentication, multi-factor auth
 
 Technologies: Python, Flask, SQLite, bcrypt, TOTP, OAuth 2.0 and SAML demonstrations.
 
-*Educational prototype — not intended for production deployment.*
+Educational prototype — not intended for production deployment.
 
-📚 Currently Learning
+Currently Learning
 
 - Cisco CCNA (200-301)
 - SOC Fundamentals and Blue Team Operations
@@ -51,6 +51,6 @@ Seeking opportunities to gain hands-on experience through **Cybersecurity Intern
 
 Connect With Me
 
-- LinkedIn:** [Tamer Alomari](https://www.linkedin.com/in/tamer-alomari)
-- GitHub:** [Tamer-alomari](https://github.com/Tamer-alomari)
-- Email:** tameralomari.jo@gmail.com
+- LinkedIn: [Tamer Alomari](https://www.linkedin.com/in/tamer-alomari)
+- GitHub:[Tamer-alomari](https://github.com/Tamer-alomari)
+- Email tameralomari.jo@gmail.com
